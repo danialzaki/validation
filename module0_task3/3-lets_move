@@ -1,0 +1,3 @@
+#!/bin/bash
+mv $(ls -d *[[:upper:]]*) /tmp/u
+
